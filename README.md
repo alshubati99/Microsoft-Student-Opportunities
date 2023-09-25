@@ -7,8 +7,10 @@
 - [**University internships**](https://careers.microsoft.com/v2/global/en/universityinternship?wt.mc_id=studentamb_211042) You can apply for an internship at Microsoft and work on projects that matter, learn from experts, and experience the culture of the company. Internships are available in all job families and solution areas, and for students in Bachelor's, Master's, MBA, PhD programs. 
 - [**PhD internships**](https://careers.microsoft.com/v2/global/en/phdinternship?wt.mc_id=studentamb_211042) If you are pursuing a PhD and want to explore what it's like to work at Microsoft, you can join either the product teams or the Microsoft Research (MSR) teams. You will be able to conduct cutting-edge research or engineer a new product, and collaborate with other researchers and engineers.
 - [**Microsoft Aspire Experience**](https://careers.microsoft.com/v2/global/en/recentgraduate?wt.mc_id=studentamb_211042) This is an onboarding experience for students and graduates who join Microsoft after completing their undergraduate or MBA programs. You will receive training, mentoring, and networking opportunities to help you grow your career at Microsoft.
-
+---
 ![](mlsa.png)
+
+---
 
 ## [Global programs](https://careers.microsoft.com/v2/global/en/exploremicrosoft?wt.mc_id=studentamb_211042)
 
@@ -20,8 +22,10 @@ These are programs that aim to inspire, empower, and connect students from aroun
 - [**HR rotational program**](https://careers.microsoft.com/students/us/en/hrprogram?wt.mc_id=studentamb_211042): A two-year program for recent graduates who want to explore different roles and teams within Microsoft's human resources organization. 
 - [**Finance rotational program**](https://careers.microsoft.com/students/us/en/financeprogram?wt.mc_id=studentamb_211042): A two-year program for recent graduates who want to explore different roles and teams within Microsoft's finance organization.
   
-
+---
 ![](microsoftlearn.png)
+
+---
 
 ## [Technology & Learning Tools for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx?wt.mc_id=studentamb_211042)
 
@@ -47,7 +51,10 @@ If you are interested in finding these opportunities, you can use the TEALS webs
 ---
 
 #### About the Author
-[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/7b8cb41a-21f5-492c-a2b6-5c4d02848854)
+[![Khawlah Alshubati](https://img.shields.io/badge/Khawlah_Alshubati-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/7b8cb41a-21f5-492c-a2b6-5c4d02848854)
+
+
+---
 
 
 
