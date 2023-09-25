@@ -21,7 +21,7 @@ This is an onboarding experience for students and graduates who join Microsoft a
   
 
 
-![](mlsa.png)
+![](mlsa1.png)
 
 
 
