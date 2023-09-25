@@ -8,7 +8,6 @@
 - [**PhD internships**](https://careers.microsoft.com/v2/global/en/phdinternship?wt.mc_id=studentamb_211042) If you are pursuing a PhD and want to explore what it's like to work at Microsoft, you can join either the product teams or the Microsoft Research (MSR) teams. You will be able to conduct cutting-edge research or engineer a new product, and collaborate with other researchers and engineers.
 - [**Microsoft Aspire Experience**](https://careers.microsoft.com/v2/global/en/recentgraduate?wt.mc_id=studentamb_211042) This is an onboarding experience for students and graduates who join Microsoft after completing their undergraduate or MBA programs. You will receive training, mentoring, and networking opportunities to help you grow your career at Microsoft.
   
----
 
 ### [Global programs](https://careers.microsoft.com/v2/global/en/exploremicrosoft?wt.mc_id=studentamb_211042)
 
@@ -22,7 +21,6 @@ These are programs that aim to inspire, empower, and connect students from aroun
 - [**HR rotational program**](https://careers.microsoft.com/students/us/en/hrprogram?wt.mc_id=studentamb_211042): A two-year program for recent graduates who want to explore different roles and teams within Microsoft's human resources organization. 
 - [**Finance rotational program**](https://careers.microsoft.com/students/us/en/financeprogram?wt.mc_id=studentamb_211042): A two-year program for recent graduates who want to explore different roles and teams within Microsoft's finance organization.
   
----
 
 ## [Technology & Learning Tools for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx?wt.mc_id=studentamb_211042)
 
@@ -34,8 +32,7 @@ These are resources that can help you learn new skills, find technical documenta
 - [**Microsoft Startups**](https://www.microsoft.com/startups?wt.mc_id=studentamb_211042) A program that supports startups at every stage of their journey, from idea to exit. It offers free access to Azure credits, development tools, software, mentorship, and co-selling opportunities. It also features the Founders Hub, a digital platform that provides resources and guidance to help founders build and grow their startups.
 - [**Student Hub**](https://learn.microsoft.com/training/student-hub?wt.mc_id=studentamb_211042) A site that helps student entrepreneurs and tech enthusiasts expand their technical knowledge and skills in the field of AI. It offers free access to Azure for Students, learning modules on various AI topics and tools, career paths exploration, and opportunities to connect with the Microsoft student developer community.
 - [**Microsoft Reactor**](https://developer.microsoft.com/reactor?wt.mc_id=studentamb_211042) A community that connects developers and startups with the latest tech and industry experts. It offers virtual and in-person events on topics such as cloud, AI, mixed reality, DevOps, and more. You can learn new skills, meet new peers, and find career mentorship through Microsoft Reactor.
-  
----
+
 
 ## [Opportunities for Computer Science Students](https://www.microsoft.com/teals?wt.mc_id=studentamb_211042)
 
@@ -47,3 +44,5 @@ The opportunities for computer science students are various and exciting. You ca
 - You can gain valuable experience and exposure that can help you advance your academic or career goals.
 
 If you are interested in finding these opportunities, you can use the TEALS website. TEALS is a program that connects high school teachers with tech industry volunteers to create sustainable computer science programs. On their website, you can search for opportunities by category, location, deadline, and eligibility. You can also sign up for their newsletter to get updates on new opportunities.
+
+---
