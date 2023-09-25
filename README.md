@@ -3,14 +3,14 @@
 ![](microsoft.png)
 
 ---
-### [For Students and Graduates](https://careers.microsoft.com/v2/global/en/programs/students.html?wt.mc_id=studentamb_211042)
+## [For Students and Graduates](https://careers.microsoft.com/v2/global/en/programs/students.html?wt.mc_id=studentamb_211042)
 - [**University internships**](https://careers.microsoft.com/v2/global/en/universityinternship?wt.mc_id=studentamb_211042) You can apply for an internship at Microsoft and work on projects that matter, learn from experts, and experience the culture of the company. Internships are available in all job families and solution areas, and for students in Bachelor's, Master's, MBA, PhD programs. 
 - [**PhD internships**](https://careers.microsoft.com/v2/global/en/phdinternship?wt.mc_id=studentamb_211042) If you are pursuing a PhD and want to explore what it's like to work at Microsoft, you can join either the product teams or the Microsoft Research (MSR) teams. You will be able to conduct cutting-edge research or engineer a new product, and collaborate with other researchers and engineers.
 - [**Microsoft Aspire Experience**](https://careers.microsoft.com/v2/global/en/recentgraduate?wt.mc_id=studentamb_211042) This is an onboarding experience for students and graduates who join Microsoft after completing their undergraduate or MBA programs. You will receive training, mentoring, and networking opportunities to help you grow your career at Microsoft.
 
 ![](mlsa.png)
 
-### [Global programs](https://careers.microsoft.com/v2/global/en/exploremicrosoft?wt.mc_id=studentamb_211042)
+## [Global programs](https://careers.microsoft.com/v2/global/en/exploremicrosoft?wt.mc_id=studentamb_211042)
 
 These are programs that aim to inspire, empower, and connect students from around the world who are passionate about technology and innovation. Some examples are:
 
