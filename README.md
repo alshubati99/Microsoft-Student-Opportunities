@@ -1,18 +1,22 @@
 # Microsoft Opportunities for Students
+
 ---
 ![](microsoft.png)
 
 ---
-## [For Students and Graduates](https://careers.microsoft.com/v2/global/en/programs/students.html?wt.mc_id=studentamb_211042)
+# [For Students and Graduates](https://careers.microsoft.com/v2/global/en/programs/students.html?wt.mc_id=studentamb_211042)
 - [**University internships**](https://careers.microsoft.com/v2/global/en/universityinternship?wt.mc_id=studentamb_211042) You can apply for an internship at Microsoft and work on projects that matter, learn from experts, and experience the culture of the company. Internships are available in all job families and solution areas, and for students in Bachelor's, Master's, MBA, PhD programs. 
 - [**PhD internships**](https://careers.microsoft.com/v2/global/en/phdinternship?wt.mc_id=studentamb_211042) If you are pursuing a PhD and want to explore what it's like to work at Microsoft, you can join either the product teams or the Microsoft Research (MSR) teams. You will be able to conduct cutting-edge research or engineer a new product, and collaborate with other researchers and engineers.
 - [**Microsoft Aspire Experience**](https://careers.microsoft.com/v2/global/en/recentgraduate?wt.mc_id=studentamb_211042) This is an onboarding experience for students and graduates who join Microsoft after completing their undergraduate or MBA programs. You will receive training, mentoring, and networking opportunities to help you grow your career at Microsoft.
+  
 ---
+
 ![](mlsa.png)
 
 ---
 
-## [Global programs](https://careers.microsoft.com/v2/global/en/exploremicrosoft?wt.mc_id=studentamb_211042)
+
+# [Global programs](https://careers.microsoft.com/v2/global/en/exploremicrosoft?wt.mc_id=studentamb_211042)
 
 These are programs that aim to inspire, empower, and connect students from around the world who are passionate about technology and innovation. Some examples are:
 
@@ -27,7 +31,8 @@ These are programs that aim to inspire, empower, and connect students from aroun
 
 ---
 
-## [Technology & Learning Tools for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx?wt.mc_id=studentamb_211042)
+
+# [Technology & Learning Tools for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx?wt.mc_id=studentamb_211042)
 
 These are resources that can help you learn new skills, find technical documentation, access online courses, and get support from Microsoft Education:
 
@@ -37,7 +42,7 @@ These are resources that can help you learn new skills, find technical documenta
 - [**Microsoft Reactor**](https://developer.microsoft.com/reactor?wt.mc_id=studentamb_211042) A community that connects developers and startups with the latest tech and industry experts. It offers virtual and in-person events on topics such as cloud, AI, mixed reality, DevOps, and more. You can learn new skills, meet new peers, and find career mentorship through Microsoft Reactor.
 
 
-## [Opportunities for Computer Science Students](https://www.microsoft.com/teals?wt.mc_id=studentamb_211042)
+# [Opportunities for Computer Science Students](https://www.microsoft.com/teals?wt.mc_id=studentamb_211042)
 
 The opportunities for computer science students are various and exciting. You can participate in competitions, hackathons, workshops, scholarships, and internships that are related to computer science and technology. You can also learn from experts, mentors, and peers who share your passion and curiosity. Some of the benefits of these opportunities are:
 
@@ -48,13 +53,12 @@ The opportunities for computer science students are various and exciting. You ca
 
 If you are interested in finding these opportunities, you can use the TEALS website. TEALS is a program that connects high school teachers with tech industry volunteers to create sustainable computer science programs. On their website, you can search for opportunities by category, location, deadline, and eligibility. You can also sign up for their newsletter to get updates on new opportunities.
 
----
+***
 
 #### About the Author
 [![Khawlah Alshubati](https://img.shields.io/badge/Khawlah_Alshubati-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/7b8cb41a-21f5-492c-a2b6-5c4d02848854)
 
-
----
+***
 
 
 
