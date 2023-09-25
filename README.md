@@ -1,9 +1,9 @@
 # Microsoft Opportunities for Students
 
----
+
 ![](microsoft.png)
 
----
+
 # 🎓 [For Students and Graduates](https://careers.microsoft.com/v2/global/en/programs/students.html?wt.mc_id=studentamb_211042)
  
 📚 [**University internships**](https://careers.microsoft.com/v2/global/en/universityinternship?wt.mc_id=studentamb_211042) <br>
@@ -15,11 +15,11 @@ These are opportunities for students who are pursuing a PhD degree in a relevant
 📚 [**Microsoft Aspire Experience**](https://careers.microsoft.com/v2/global/en/recentgraduate?wt.mc_id=studentamb_211042) <br>
 This is an onboarding experience for students and graduates who join Microsoft after completing their undergraduate or MBA programs. You will receive training, mentoring, and networking opportunities to help you grow your career at Microsoft. You will also get to work on challenging projects that align with your passions and strengths. You will be part of a diverse and inclusive community that supports your personal and professional development. You can apply for the Microsoft Aspire Experience through Microsoft’s online job portal, where you can find the available positions and locations. You will need to submit your resume, a letter of recommendation, and portfolio samples. You will also need to answer some questions about your experience, interests, and goals. The application process may vary depending on the region and role you are applying for.
   
----
+
 
 ![](mlsa.png)
 
----
+
 
 
 # 🌐 [Global programs](https://careers.microsoft.com/v2/global/en/exploremicrosoft?wt.mc_id=studentamb_211042)
@@ -38,11 +38,9 @@ This is a two-year program for recent graduates who want to explore different ro
 
 🌍 [**Finance rotational program**](https://careers.microsoft.com/students/us/en/financeprogram?wt.mc_id=studentamb_211042): <br>
 This is a two-year program for recent graduates who want to explore different roles and teams within Microsoft’s finance organization. You will start with a 12-week internship followed by four 6-month rotations in different finance teams. You will work on various aspects of finance, such as financial planning and analysis, business development, treasury, tax, audit, investor relations, and more. You will also learn from senior finance leaders, network with other finance participants and alumni, and participate in various events and activities. You will receive competitive pay, benefits, and relocation assistance. You will also have a chance to develop your finance skills and knowledge and build your career in finance at Microsoft. <br>
-  
----
+
 ![](microsoftlearn.png)
 
----
 
 
 # 🤖 [Technology & Learning Tools for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx?wt.mc_id=studentamb_211042)
