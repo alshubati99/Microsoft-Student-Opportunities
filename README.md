@@ -13,6 +13,8 @@
 
 These are programs that aim to inspire, empower, and connect students from around the world who are passionate about technology and innovation. Some examples are:
 
+![](mlsa.png)
+
 - [**Imagine Cup**](https://imaginecup.microsoft.com?wt.mc_id=studentamb_211042): A global competition where you can create a tech solution to address a social or environmental issue and win great prizes. 
 - [**Student ambassadors program**](https://studentambassadors.microsoft.com?wt.mc_id=studentamb_211042): A community of students who learn new skills, share their knowledge, and network with other students and professionals. 
 - [**ACE rotational program**](https://careers.microsoft.com/students/us/en/aceprogram?wt.mc_id=studentamb_211042): A two-year program for recent graduates who want to explore different roles and teams within Microsoft's engineering organization. 
@@ -23,6 +25,9 @@ These are programs that aim to inspire, empower, and connect students from aroun
 ## [Technology & Learning Tools for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx?wt.mc_id=studentamb_211042)
 
 These are resources that can help you learn new skills, find technical documentation, access online courses, and get support from Microsoft Education:
+
+![](microsoftlearn.png)
+
 - [**Microsoft Learn**](https://learn.microsoft.com?wt.mc_id=studentamb_211042) A free online platform that provides interactive learning paths and modules for various Microsoft products and services, such as Azure, Power Platform, Dynamics 365, and more. You can learn at your own pace, earn points and badges, and get certified to showcase your skills.
 - [**Microsoft Startups**](https://www.microsoft.com/startups?wt.mc_id=studentamb_211042) A program that supports startups at every stage of their journey, from idea to exit. It offers free access to Azure credits, development tools, software, mentorship, and co-selling opportunities. It also features the Founders Hub, a digital platform that provides resources and guidance to help founders build and grow their startups.
 - [**Student Hub**](https://learn.microsoft.com/training/student-hub?wt.mc_id=studentamb_211042) A site that helps student entrepreneurs and tech enthusiasts expand their technical knowledge and skills in the field of AI. It offers free access to Azure for Students, learning modules on various AI topics and tools, career paths exploration, and opportunities to connect with the Microsoft student developer community.
