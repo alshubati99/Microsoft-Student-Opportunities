@@ -73,6 +73,8 @@ The opportunities for computer science students are various and exciting. You ca
 
 If you are interested in finding these opportunities, you can use the TEALS website. TEALS is a program that connects high school teachers with tech industry volunteers to create sustainable computer science programs. On their website, you can search for opportunities by category, location, deadline, and eligibility. You can also sign up for their newsletter to get updates on new opportunities.
 
+[Checkout the Introduction to Azure Monitoring Workshop](https://www.linkedin.com/safety/go?messageThreadUrn=urn%3Ali%3AmessageThreadUrn%3A&url=https%3A%2F%2Fstdntpartners-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fcharilaos_chatzidimitriou_studentambassadors_com%2FEfYzPzC1yRJNmeJrR3fh7AIBPN1DqS6DqEE93K5v_18DxA%3Fnav%3DeyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ%26e%3DwJPhCt&trk=flagship-messaging-android)
+
 ***
 
 #### 👩🏻‍💻  About the Author
